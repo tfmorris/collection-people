@@ -6,21 +6,21 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0f94vg,5854220,,,,,,18041023,Vladimir Kagan
 /m/078zrz,2393913,,,,,,18041025,Hiroshi Awatsuji
 ,1697559,,,1619,,,18041029,Henry Dreyfuss Associates
-,857967,,,,,,18041077,Donald Cameron
+,,,,,,,18041077,Donald Cameron
 ,34056483,,,,,,18041081,Création Baumann AG
 /m/03h3x_c,14989908,,,,3536,,18041127,Per Arnoldi
 /m/03c38sz,13375570,,,5800,,,18041173,Ikko Tanaka
 /m/0589sr9,20811216,,,,,,18041253,Richard Arbib
 /m/0gyvvwk,30129469,,,,,,18041321,Maya Romanoff
-,32336860,,,2005,,,18041325,Dan Friedman
+,,,,2005,,,18041325,Dan Friedman
 /m/0ccj4,45534,100223891,,7661,,,18041345,Aldo Rossi
-,2879346,,,,,,18041393,John Bruce
+,,,,,,,18041393,John Bruce
 /m/0bp_jq,4207229,,,8451,,,18041437,Dieter Rams
 /m/05p6rp,1697559,8198939,,,,,18041501,Henry Dreyfuss
 /m/01gx66,225721,,,,,,18041507,"Honeywell, Inc."
 ,563788,,,,,,18041523,Tibor Kalman
 /m/05z_tr_,22481954,,,,,18308365,18041543,Belle Kogan
-,11207829,,,8271,,,18041625,Edward Fella
+,,,,8271,,,18041625,Edward Fella
 /m/0dcmnj,5285932,,,7456,,,18041683,Art Chantry
 /m/01p60k,274837,,,,,,18041809,Cranbrook Academy of Art
 /m/0c8fsq,4550992,,,2330,,,18041839,April Greiman
@@ -34,7 +34,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/027yjg9,9123961,,,,,,18041935,Pietro Novelli
 /m/01pkdk,277766,42087786,,,,,18041941,Frederic Edwin Church
 ,1121043,,,,,,18041943,Daniel Huntington
-,2590067,,,,,,18041945,Jean Bérain
+,,,,,,,18041945,Jean Bérain
 /m/01th73,313284,15044075,,,,18300259,18041949,Winslow Homer
 ,35681769,,,,,,18041951,Mauro Gandolfi
 /m/02q78z6,10281195,,,,,,18041953,Vittorio Maria Bigari
@@ -63,12 +63,12 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,1750945,,,1122,13526,,18042087,Seymour Chwast
 /m/02b0x0,451116,,,,,,18042101,Tim Girvin
 ,1008884,,,2188,,,18042107,Milton Glaser
-,3792543,,,,,,18042113,Albani
+,,,,,,,18042113,Albani
 /m/039xt,12635,,,,,,18042115,Giovanni Lorenzo Bernini
 /m/05f9tzs,21349329,,,,,,18042119,Domenico Martinelli
 /m/088x45,2882394,,,,,,18042121,Andrea Pozzo
 /m/02vkz_4,11986510,,,,,,18042125,Giacomo Alboresi
-,16456,,,,13312,,18042131,John Nash
+,,,,,13312,,18042131,John Nash
 /m/05j_bm,1642096,,,,1613,,18042133,Stefano della Bella
 /m/0ds3zf,5550776,,,,70660,,18042135,Pierre-Jean Mariette
 /m/02866jt,9368918,,,,,,18042139,Domenico Piola
@@ -82,7 +82,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0glnxhx,31521822,,,,,,18042163,Isaac de Moucheron
 /m/0ftqtd,6166578,,,,,,18042167,François-Joseph Belanger
 /m/02812f9,9232429,,,,,,18042171,Antoine Berjon
-,6605552,,,,,,18042183,Charles Huntington
+,,,,,,,18042183,Charles Huntington
 ,274102,,,,,,18042185,Albert Gallatin
 /m/031tgq,673729,,,,,,18042187,James Lenox
 ,2303661,,,,,,18042189,William E. Dodge
@@ -99,11 +99,11 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,8002647,,,,,,18042227,Alessandro Galli Bibiena
 /m/01vt1c,323254,,,,,,18042233,Daniel Marot
 ,400646,,,,,,18042237,Thomas Moran
-,364796,,,,,,18042253,Vassar
+,,,,,,,18042253,Vassar
 ,170810,,,,,,18042269,Radio City Music Hall
-,709187,,,,,,18042275,Wiener
+,,,,,,,18042275,Wiener
 ,479944,,,,,18308705,18042279,Alcoa
-,5149109,,,,,,18042283,B. L.
+,,,,,,,18042283,B. L.
 /m/06vlrs,2202554,,,,,,18042285,William Trost Richards
 /m/05x8yl,1791534,59448095,,,,,18042291,Francis Hopkinson Smith
 /m/03d29gn,14390708,42641268,,,,,18042301,William Stanley Haseltine
@@ -117,7 +117,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/03gxm9,849349,,,372,13698,,18042343,Saul Bass
 ,141330,,,3859,,18301859,18042345,Peter Max
 /m/05f5m4s,21270337,,,,,,18042347,Tom Geismar
-,2615534,,,,,,18042351,Peter Bradford
+,,,,,,,18042351,Peter Bradford
 /m/02pnh43,9662674,,,,,,18042355,Michael Vanderbyl
 ,2394121,,,,,,18042367,Earl Woods
 /m/0278wby,8583897,,,,,,18042373,Daniel Hopfer
@@ -133,16 +133,16 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,378325,,,1547,,,18042429,Jim Dine
 /m/027lxmb,8848768,,,,,,18042465,John Follis
 /m/096r5p,3341760,109372554,,,,,18042477,Gilbert Seldes
-,28806356,,,,,,18042479,Carlebach
+,,,,,,,18042479,Carlebach
 /m/0d4nfl,5140732,,,,,,18042481,Benjamin Dean Wyatt
 ,69880,,,,68699,,18042489,Napoleon Bonaparte
 /m/018dlc,178877,,,,4340,18299901,18042493,Sir Edward Burne-Jones
 /m/07tlss,2639809,,,,,,18042501,Jacques Sarazin
-,2431142,,,,,,18042503,Condé Nast
+,,,,,,,18042503,Condé Nast
 ,432397,,,,45217,,18042509,Deere & Company
 ,948203,,,,,,18042513,Hugh Ferriss
 ,43357,,,,8720,18298933,18042515,Katsushika Hokusai
-,2744321,,,,49801,,18042527,Rubin
+,,,,,49801,,18042527,Rubin
 ,902105,,,,,,18042529,Jusepe de Ribera
 ,4667874,,,,,,18042541,Ely Jacques Kahn
 /m/05f8f81,21323102,,,,37798,,18042557,Jean-Guillaume Moitte
@@ -158,7 +158,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/06grgz,2036265,46771018,,,,,18042589,Giovanni Domenico Tiepolo
 /m/01fr20,216781,,,,,,18042591,Giovanni-Battista Tiepolo
 /m/098x8z,3386316,,,,,,18042593,Giovanni Battista Foggini
-,11800983,,,,,,18042603,Daily Herald
+,,,,,,,18042603,Daily Herald
 /m/0bz8tz,4363290,,,,,,18042621,Ferdinando Fuga
 /m/0bz427,4360470,,,,40651,,18042631,Carlo Marchionni
 /m/03crg7c,14027539,,,,74483,,18042635,Carlo Antonio Buffagnotti
@@ -173,7 +173,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/09_wqs,3784876,,,,,,18042671,Giacomo Quarenghi
 /m/0b1_by,3827106,,,,,,18042675,Giuseppe Valadier
 /m/03hjqg9,15137196,,,,,,18042679,Pompeo Marchesi
-,492105,,,,75379,18294921,18042681,Unknown
+,,,,,75379,18294921,18042681,Unknown
 ,19940109,,,,,,18042685,"Marie Antoinette, Queen of France"
 /m/07sq_b,2627241,,,,,,18042687,Jean-Siméon Rousseau
 ,5924987,,,,,,18042689,Victor Louis
@@ -184,34 +184,34 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,53613,,,3910,34579,,18042729,Richard Meier
 /m/0383hl,749755,,,1784,,,18042743,Alexandra Exter
 /m/026n1fh,8000541,,,,,,18042789,Giuseppe Bernardino Bison
-,8779131,,,,,,18042791,Lewis Davis
-,10052997,,,,,,18042803,Allen Lewis
+,,,,,,,18042791,Lewis Davis
+,,,,,,,18042803,Allen Lewis
 /m/0gttlsq,31804004,,,,,,18042805,Marcus de Bye
 /m/0fpk3w3,29610160,,,,,,18042813,Cornelis Visscher
 ,1226508,,,5627,44593,18300225,18042821,Saul Steinberg
-,7446914,,,,,,18042827,Francesco Salviati
-,2427645,,,,,,18042839,Ando Hiroshige
-,33815153,,,,,,18042849,Jean DuBois
+,,,,,,,18042827,Francesco Salviati
+,,,,,,,18042839,Ando Hiroshige
+,,,,,,,18042849,Jean DuBois
 /m/019fcl,186100,,,,,,18042853,Arnold Joost van Keppel
 /m/06pl9v,2137897,,,,,,18042861,Rosalba Carriera
 /m/05zqrxb,22715669,,,,,,18042871,François Chauveau
-,1546881,,,,,,18042873,"Louis XIV, King of France"
+,,,,,,,18042873,"Louis XIV, King of France"
 /m/02r1ybn,11156214,,,,,,18042877,Mauro Antonio Tesi
-,318505,,,6390,38759,,18042881,Robert Wilson
+,,,,6390,38759,,18042881,Robert Wilson
 /m/0gw_68n,32017546,,,,9666,,18042887,Etienne Delaune
-,492105,,,,,,18042891,Unknown
+,,,,,,,18042891,Unknown
 /m/03d13r0,14343534,,,,,,18042893,Pierino da Vinci
-,332542,,,,,,18042897,Ranuccio Farnese
+,,,,,,,18042897,Ranuccio Farnese
 /m/08x3kq,3174541,,,,,,18042899,Jean-Jacques Lequeu
 /m/086zrw,2853714,46833997,,,,,18042909,Augustus Charles Pugin
-,6769946,,,,,,18042925,Antonio Sarti
+,,,,,,,18042925,Antonio Sarti
 ,69246,,,,,,18042933,Pope Pius VII
 /m/02w5sr8,12436909,,,,,,18042935,Giovanni Volpato
 /m/04093,15770,,,,8168,,18042987,Jules Verne
 /m/037fkx,741290,,,,,,18042989,Nathaniel Currier
 ,5635,,,,,,18043003,Christopher Columbus
 /m/082db,33163,,,,,,18043005,Wolfgang Amadeus Mozart
-,31733682,,,,,,18043019,George Baxter
+,,,,,,,18043019,George Baxter
 /m/0p_nx,102989,,,4136,,,18043027,Alphonse Maria Mucha
 /m/077d8t,2374232,,,,12192,18299867,18043031,Giovanni Benedetto Castiglione
 ,44525,,,,39613,18305005,18043051,Raphael
@@ -227,9 +227,9 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/05849t,1527179,,,,,,18043161,Peter Julian
 ,8032274,,,,,,18043167,Post No Bills
 ,476217,,,,42598,,18043169,Guerrilla Girls
-,23221066,,,,,,18043171,Peter Cohen
+,,,,,,,18043171,Peter Cohen
 /m/0gg8l6_,31040227,,,,,,18043185,Charles Mellin
-,22870438,,,,,,18043197,Granger
+,,,,,,,18043197,Granger
 /m/03m72dq,15398749,42708256,,,,,18043199,Clare Francis
 /m/05t00xq,22403434,,,3035,,,18043215,Jerry Kearns
 /m/027gc04,8723702,109482861,,,,,18043217,Lucy Lippard
@@ -239,7 +239,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,1556298,,,,,,18043233,Peter Kuper
 ,33959,,,,,,18043237,Caz
 /m/04qbzh,1289372,62747615,,7087,,,18043241,Eric Drooker
-,11526530,,,,,,18043245,I.B.
+,,,,,,,18043245,I.B.
 /m/03ltbg,886599,,,7110,,,18043249,Avram Finkelstein
 ,6538365,,,2208,,,18043255,David Lance Goines
 /m/02qqq2q,10810457,,,,,,18043259,Robert Cuni
@@ -260,29 +260,29 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/03gmgb,846559,,,,,,18043329,Ludovico Carracci
 /m/04_0r2s,20349675,,,,,,18043331,Alvin Lustig
 /m/02qd25x,10436916,19573973,,,,,18043333,Arnold William Brunner
-,30493112,,,,,,18043349,Salvatori
+,,,,,,,18043349,Salvatori
 /m/06nwrm,2125670,,,,,,18043353,Louis-Jean Desprez
 /m/0cf_5k,4661570,,,6460,,18296469,18043357,Russel Wright
 /m/02plv4k,9612650,,,,,,18043361,Eduardo Muñoz Bachs
-,81764,,,,,,18043367,Nestor
-,21650449,,,,,,18043375,Luis Vega
+,,,,,,,18043367,Nestor
+,,,,,,,18043375,Luis Vega
 /m/01ry3d,301364,,,,,,18043377,Union Carbide
-,204715,,,,,,18043395,Crest
-,584215,,,,,,18043401,Gillette
-,4777082,,,,,,18043403,Greenpoint
+,,,,,,,18043395,Crest
+,,,,,,,18043401,Gillette
+,,,,,,,18043403,Greenpoint
 /m/01tbm7,312284,,,,,,18043405,Jascha Heifetz
 ,311346,,,,46656,,18043411,Johnson
 ,1608281,,,,,,18043415,R. W. L.
 /m/05kx9k,1653322,,,,,,18043417,Thomas W. Lamb
-,83163,,,,,,18043419,Lykos
+,,,,,,,18043419,Lykos
 ,30181328,,,,,,18043421,Richard  H. Mandel
 ,8021871,,,,,,18043427,Park Central Hotel
 /m/037zl6,747450,,,,,,18043433,Helena Rubinstein
 ,34963786,,,,,,18043437,F.H. S.
-,876511,,,,,,18043445,Steinway and Sons
-,1932999,,,,,,18043451,Ullman
-,819625,,,,,,18043463,Westervelt
-,5532227,,,,41900,,18043469,Robert Jones
+,,,,,,,18043445,Steinway and Sons
+,,,,,,,18043451,Ullman
+,,,,,,,18043463,Westervelt
+,,,,,41900,,18043469,Robert Jones
 /m/06bpp5,1980907,,,7512,,,18043471,Edward William Godwin
 /m/0cbl84,4592943,,,,,,18043475,Walter Shirlaw
 /m/06w6tkv,23558341,,,,,,18043483,Rene Boyvin
@@ -300,7 +300,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/04_1tk4,20351735,,,,,,18043595,New York Department of Health
 ,13682,,,,,,18043603,Herbert Hoover
 ,1313805,,,,,,18043625,Mike Mills
-,34893766,,,,,,18043651,Stephen Doyle
+,,,,,,,18043651,Stephen Doyle
 /m/09zqzc,3764125,92536323,,7070,,,18043689,Paula Scher
 /m/07rd59,2607965,74990610,,,,,18043709,Henry Hitchings
 ,32263355,,,,920,,18043723,Barovier & Toso
@@ -310,7 +310,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,8951521,,,,,,18043779,F B
 /m/08rj30,3101790,,,,,18295393,18043789,Gorham Manufacturing Company
 /m/0bmg030,26710638,,,,37162,,18043793,Grueby Faience Company
-,345605,,,,53533,,18043811,Huet
+,,,,,53533,,18043811,Huet
 ,24619282,,,,535,,18043821,Jennens & Bettridge
 /m/01lwd,5233,,,,10626,,18043833,L.
 ,68360,,,,951,,18043837,Lalique
@@ -318,8 +318,8 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,40674,,,,,,18043857,Meissen
 ,2296421,,,,4759,,18043865,Morris & Co.
 ,33277,,,7061,1835,18296011,18043867,William Morris
-,1071471,,,,,,18043871,Oriel
-,24619194,,,,,,18043875,Overbeck
+,,,,,,,18043871,Oriel
+,,,,,,,18043875,Overbeck
 /m/03rht6,935960,,,,,,18043879,Pewabic Pottery
 /m/02x8kvf,30862869,,,,3482,18295725,18043903,Rookwood Pottery
 /m/02x8r49,12870207,,,,,,18043911,Kataro Shirayamadani
@@ -334,9 +334,9 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,843787,,,,61677,,18043993,Bloomingdale's
 /m/0gsgl0,6849554,,,6208,,,18044003,Wilhelm Wagenfeld
 /m/084_bc,2823584,,,,,,18044009,Vivianna Torun Bülow-Hübe
-,6761382,,,1196,,,18044019,Joe Colombo
+,,,,1196,,,18044019,Joe Colombo
 /m/080n505,24775951,,,6129,,,18044027,Paolo Venini
-,1250573,,,,,,18044031,Sasaki
+,,,,,,,18044031,Sasaki
 ,15469973,,,,,,18044043,Robert Crawford Johnson
 /m/0843_d,2809986,,,4119,,,18044047,Koloman Moser
 ,3420071,,,,,,18044063,Degler
@@ -344,42 +344,42 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/058xw_,1539302,,,4384,,,18044085,George  E. Ohr
 /m/03c50dm,13428974,,,,,,18044095,Richard Notkin
 ,5323081,,,,,,18044099,Mintons Ltd.
-,2829121,,,,,,18044103,William Taylor
-,1787488,,,,,,18044123,Jørgen Jensen
+,,,,,,,18044103,William Taylor
+,,,,,,,18044123,Jørgen Jensen
 ,18423857,,,,,,18044125,Holdcroft
 /m/03lr0g,885576,,,,60764,,18044143,Hans Collaert
 /m/0b2_lt,3845590,,,,,,18044155,Viktor Schreckengost
 ,1028472,,,438,,18300267,18044161,Peter Behrens
 ,4507710,,,,,,18044163,Wertheim Department Store
 ,24271218,,,,,,18044177,Charles Baskerville
-,3370068,,,,,,18044179,Jean Cros
+,,,,,,,18044179,Jean Cros
 /m/0fq0pyc,29723392,,,,,,18044181,John Wakelin
 /m/02rpy30,11716189,,,,,,18044191,Childs Frick
 /m/01y3gr,341285,,,,,,18044203,Elsa Peretti
 /m/03_z03,1032041,,,,,,18044207,Max Factor
 ,1124045,,,,,,18044209,Noritake
-,22027082,,,,,,18044211,Imperial Hotel
+,,,,,,,18044211,Imperial Hotel
 ,14998012,,,,74820,,18044223,Air France
 ,4403153,,,3925,71745,,18044233,Alessandro Mendini
 /m/03b_lbg,13260110,,,,,,18044241,Ronald E. Kent
-,12955824,,,3171,,,18044253,Archibald Knox
+,,,,3171,,,18044253,Archibald Knox
 /m/0jr3z,73516,,,5876,,18295219,18044255,Louis Comfort Tiffany
 /m/06_vfxx,23848751,,,,,,18044265,Dagobert Peche
 /m/0c42hm7,27678671,,,,,,18044267,Gijs Bakker
-,12897797,,,,,,18044269,Charles Eames
+,,,,,,,18044269,Charles Eames
 ,36260459,,,3766,,,18044291,Enzo Mari
 ,2911961,,,4163,,,18044293,Bruno Munari
 ,3190123,,,,31171,,18044305,Paco Rabanne
-,23314255,,,,,,18044323,Knoll International
+,,,,,,,18044323,Knoll International
 /m/09gg8vb,25343777,,,,,,18044325,Jens Risom
 /m/0cv752,4920194,,,,,,18044327,Frederick Hurten Rhead
 ,36168306,,,,,,18044339,Shreve & Co.
 /m/04tkh2,1333837,15842729,,,543,,18044341,Eric Ravilious
-,1228216,,,,,,18044345,Wilkinson
+,,,,,,,18044345,Wilkinson
 ,8999947,,,,,18296283,18044349,Tiffany Studios
 /m/0hwm2,68360,,,,,,18044355,René Lalique
-,174502,,,,,,18044365,Napier
-,2515237,,,,,,18044369,William Frend de Morgan
+,,,,,,,18044365,Napier
+,,,,,,,18044369,William Frend de Morgan
 ,2485779,,,,,,18044371,Moravian Pottery and Tile Works
 /m/02qr8z5,10828342,,,4241,,,18044395,Otto Natzler
 /m/08v7hx,3143947,,,,,,18044417,Olaf Skoogfors
@@ -387,7 +387,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,12499720,,,,,,18044465,Mennecy
 ,36141676,,,,,,18044469,Volkstedt
 /m/04g0kvh,17540770,,,3044,,,18044485,Douglas Kelley
-,5624661,,,,,,18044487,Laverne
+,,,,,,,18044487,Laverne
 /m/0432n7,1067409,,,3842,,,18044489,Roberto Sebastian Matta
 /m/07fhb3,2457839,,,451,,,18044493,Mario Bellini
 /m/09gh4fg,25169657,,,1978,,18307441,18044503,Gianfranco Frattini
@@ -404,15 +404,15 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,8486669,,,,,,18044577,Mary Scheier
 /m/0615l4,1853769,,,6409,,,18044579,Tapio Wirkkala
 /m/06qcl7,2148792,,,,,,18044605,Breon O'Casey
-,3153663,,,,,,18044627,Hans J. Wegner
+,,,,,,,18044627,Hans J. Wegner
 /m/0gbct8,6556328,,,4316,,,18044635,Marcello Nizzoli
 /m/04jd9gb,19091182,,,7560,,,18044647,Gwathmey Siegel & Associates
-,236162,,,,39545,,18044651,Alias
+,,,,,39545,,18044651,Alias
 /m/04dhv_,1174550,9899554,,769,,,18044669,Marcel Breuer
 /m/0ks1y8,7304575,,,,,18297613,18044673,Johann Joachim Kändler
-,8518422,,,,,,18044675,Erik Fleming
+,,,,,,,18044675,Erik Fleming
 /m/01xh0k,335794,,,,15969,,18044689,Samuel Bing
-,16990635,,,,,,18044691,L'Art Nouveau
+,,,,,,,18044691,L'Art Nouveau
 /m/065zd,24750,,,,,,18044715,Porter Blanchard
 ,2749395,,,,,,18044721,Westclox
 ,6415284,,,,847,,18044735,Orrefors
@@ -424,21 +424,21 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/07whqf,2666306,,,,,18307889,18044781,Reed & Barton
 ,7851097,,,,213,,18044785,James Powell & Sons
 /m/0b60lv,3903160,,,,64809,,18044787,Frederick Carder
-,292620,,,,,,18044789,Steuben
-,3682709,,,,,18296751,18044797,Keith Murray
-,26920246,,,,,,18044799,Norman Wilson
+,,,,,,,18044789,Steuben
+,,,,,,18296751,18044797,Keith Murray
+,,,,,,,18044799,Norman Wilson
 ,9228486,,,,,18308393,18044801,Roseville Pottery
 /m/03m9lv_,15446341,,,,,,18044811,David Vestal
 /m/074gh7,2333217,284011,,,72222,18305651,18044819,Richard Redgrave
 /m/082hnj,2784087,,,6592,,,18044821,Piet Zwart
 ,2164292,,,,44822,,18044823,Guerlain
-,8966873,,,,6414,,18044843,Cappellini
+,,,,,6414,,18044843,Cappellini
 ,35194848,,,,,,18044857,Marijke de Goey
 /m/014jjj,156436,,,8418,16315,,18044865,Philippe Starck
 /m/03d3jpt,14438023,,,,,,18044883,Pelican Products
 ,246936,,,,61700,,18044889,Black & Decker
 /m/03kc5t,871528,,,,,,18044905,René Paul Chambellan
-,206041,,,,,,18044909,Westinghouse
+,,,,,,,18044909,Westinghouse
 ,5457648,,,,,,18044911,Oster
 ,13107616,,,,,,18044935,Merkelbach
 /m/06n4b4,2115268,,,,,,18044941,George Sakier
@@ -448,14 +448,14 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,22839299,,,,,,18044969,Abraxes
 /m/0fxs9c,6227038,,,,9746,,18044975,Villeroy and Boch
 /m/0f7tt,54595,,,3671,,,18044987,Charles Rennie Mackintosh
-,3862980,,,,,,18044989,Berndorf
+,,,,,,,18044989,Berndorf
 /m/0277h1_,8548168,,,5162,,18300501,18044991,Richard Sapper
 /m/02qtnxj,10906526,,,6544,,,18044993,Marco Zanuso
-,414716,,,,,,18044999,EFM
+,,,,,,,18044999,EFM
 /m/0hhjk,66107,,,,75319,,18045001,The Museum of Modern Art
-,15449590,,,,,,18045011,Western Electric Manufacturing Company
+,,,,,,,18045011,Western Electric Manufacturing Company
 /m/0bqt_j,4223241,,,,,,18045013,Kem Weber
-,60680,,,,,,18045017,Hammond
+,,,,,,,18045017,Hammond
 ,31348321,,,,,,18045037,Poul Hansen
 /m/03bkcp,775874,,,,,,18045045,Hendrik Petrus Berlage
 ,26924909,,,,,,18045057,W.H. Gispen
@@ -466,25 +466,25 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/01yb3t,342837,,,1249,1052,,18045093,Corning Glass Works
 /m/06w279j,23506137,,,,,,18045117,Ludwig Suetterlin
 /m/027q5sh,8931992,,,,,,18045129,George Washington Maher
-,1151503,,,,12492,,18045131,Cartier
+,,,,,12492,,18045131,Cartier
 /m/0378jh,739555,74022344,,,,,18045153,Walter Crane
 /m/067m_y,1939968,,,,,,18045171,Sunbeam Corporation
 ,12764295,,,,,,18045183,Mikhail Mikhailovich Adamovich
-,21082348,,,,,,18045203,Lebedeva
+,,,,,,,18045203,Lebedeva
 /m/04dvd,17300,,,3710,38475,,18045205,Kazimir Severinovich Malevich
 ,3014315,,,,,,18045215,Vkhutemas
 ,20093505,,,,,,18045221,Heinz Werner
 /m/06stqk,2179648,9839341,,,38792,,18045245,Boris Mikhailovich Kustodiev
 /m/02vr6d6,12142731,,,,,,18045257,Ivan Kuznetsov
 ,7477057,,,,,,18045357,Ray Sander
-,3198727,,,,,,18045369,Michael Barry
+,,,,,,,18045369,Michael Barry
 /m/09wf3b,3706430,,,,,,18045373,Jay Wilson
 ,34164,,,,52195,,18045375,Xerox
 ,5571944,,,,,,18045419,Bromley Hall
 ,1338894,,,7077,,,18045429,Gustav Stickley
 /m/0dscqkb,29261380,,,,,,18045445,Louis-Henri Breviere
 /m/02gc67,487018,116681603,,4485,,,18045471,Verner Panton
-,320595,,,,,,18045475,Arthur Lee
+,,,,,,,18045475,Arthur Lee
 /m/050w7s,1429649,,,3641,,,18045529,Jean Lurcat
 /m/0czb37z,28735359,,,7346,,,18045553,Astrid Sampe
 ,17739495,,,,,,18045565,Raymond Duncan
@@ -504,7 +504,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/019h1v,186466,29552547,,2679,,,18045813,Howard Hodgkin
 ,13569130,,,,,,18045841,Cheney Brothers
 /m/0f1gs,53621,108427049,,8215,575,18308065,18045843,Robert Venturi
-,15158541,,,,,,18045847,Dwight Taylor
+,,,,,,,18045847,Dwight Taylor
 ,12785846,,,,,,18045849,Clayton Knight
 ,415077,,,,,,18045853,John Held Jr.
 ,1025817,,,,,,18045913,Paul Simmons
@@ -512,10 +512,10 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,3871014,,,,,,18045919,Rainbow
 /m/05dq64,1588280,44557607,,,,,18045927,Bernard Rudofsky
 /m/03mhvmq,15616934,,,,,,18045935,Lucienne Day
-,1018409,,,,,,18045951,Vera
+,,,,,,,18045951,Vera
 /m/071llk,2294579,46825663,,,,,18045963,May Morris
-,14518074,,,,,,18045975,Lufthansa German Airlines
-,3171547,,,,4469,,18045993,Mariano Fortuny
+,,,,,,,18045975,Lufthansa German Airlines
+,,,,,4469,,18045993,Mariano Fortuny
 /m/02z2z_n,13004115,,,,,,18046005,Tzaims Luksus
 /m/02rg_,10128,,,,,,18046009,Elizabeth Tudor
 /m/0ddny6,5306291,,,,,,18046025,Vuokko Eskolin Nurmesniemi
@@ -530,34 +530,34 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0938xg,3284408,,,5814,,,18046125,Lenore Tawney
 /m/02ztp5,642414,,,,,,18046171,Owens Corning Fiberglass
 ,13051327,,,,,,18046183,Associated American Artists
-,15671459,,,,,,18046197,John Hull
+,,,,,,,18046197,John Hull
 /m/0bmc8bt,26666649,,,4571,,,18046203,Gabor Peterdi
 ,1717512,,,,,,18046213,Tony Sarg
-,13431769,,,,,,18046215,Merton Abbey
+,,,,,,,18046215,Merton Abbey
 ,3075550,,,96,,,18046221,Anni Albers
 /m/03yhtn7,16635777,,,,,,18046225,Hans Krondahl
 ,2197022,,,,,,18046273,Ken Scott
-,1657610,,,,,,18046283,Owen Jones
+,,,,,,,18046283,Owen Jones
 /m/036rtk,734091,,,,73030,,18046285,Jean Patou
 ,6518264,,,,7881,,18046291,Fiorucci
 ,399761,,,,,,18046307,John Hewson
 /m/04n52nj,19380953,,,,,,18046321,Orinoka Mills
 ,24985452,,,,13637,,18046337,F. Schumacher & Co.
-,21058924,,,1971,,,18046343,Josef Frank
+,,,,1971,,,18046343,Josef Frank
 ,2009303,,,,7868,,18046351,Hermès
 ,10899874,,,2694,,,18046353,Josef Hoffmann
 /m/0c02rz8,27452039,,,,,,18046365,"Arthur Sanderson & Sons, Ltd."
 /m/01fm2,4481,59088051,,,32450,,18046377,Beatrix Potter
 /m/02p_bp_,10029748,,,,,,18046439,Jean-Baptiste Réveillon
 ,277858,,,,16068,,18046463,"Sears, Roebuck and Co."
-,802167,,,,43722,,18046467,Duro
+,,,,,43722,,18046467,Duro
 /m/0g65kh,6459294,,,,,18297127,18046485,Mary McFadden
 /m/04zwycr,20334441,,,,,,18046513,Andre Groult
 /m/06gxfk,2038953,9845043,,,,,18046515,Rene Crevel
-,3861431,,,870,,,18046529,Charles Burchfield
+,,,,870,,,18046529,Charles Burchfield
 /m/0czcshg,28720037,,,6463,,,18046531,Paul Wunderlich
 ,48296,,,,,,18046533,Marburg
-,2295885,,,2931,,,18046535,Allen Jones
+,,,,2931,,,18046535,Allen Jones
 ,7328346,,,5882,75356,,18046537,Jean Tinguely
 ,386255,,,,,,18046543,Peter Phillips
 /m/04n3j_w,19467874,,,,,,18046545,Getulio Alviani
@@ -566,28 +566,28 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,839945,,,,,,18046593,Sigvard Bernadotte
 /m/05c55pq,21168564,,,,,,18046643,Peggy Angus
 ,2710478,,,,51007,,18046663,William Burges
-,8861370,,,6391,,,18046669,Scott Wilson
-,224222,,,,,,18046697,E.S.
+,,,,6391,,,18046669,Scott Wilson
+,,,,,,,18046697,E.S.
 ,2964420,,,,,,18046701,Henry Butler
 /m/0kc6,864,56617645,,6246,12770,,18046705,Andy Warhol
 /m/05_dv5,1830848,,,395,31266,,18046723,Edward Bawden
 ,30772962,,,,,,18046751,Braendli
 ,4318009,,,,,,18046753,Tekko
 ,16776968,,,,,,18046763,Jofa
-,1825189,,,,,,18046811,Charles Francis Annesley Voysey
-,511799,,,,,,18046869,Mountville
+,,,,,,,18046811,Charles Francis Annesley Voysey
+,,,,,,,18046869,Mountville
 ,63610,,,,,,18046885,Peacock
-,972618,,,,,,18046891,Staunton
+,,,,,,,18046891,Staunton
 ,13007967,,,,,,18046895,Nancy Warren
 /m/011w7m,141931,64001320,,,54738,18306193,18046909,Sir J.M. Barrie
-,374763,,,,4372,,18046963,Williamson
+,,,,,4372,,18046963,Williamson
 ,30050245,,,,,,18046977,Joan Perry
-,30679238,,,,,,18046999,Anthony Little
+,,,,,,,18046999,Anthony Little
 ,23389980,,,,,,18047007,Ben Morris
 /m/0gf0nv,6618372,,,,,,18047063,Gene McDonald
 ,34086281,,,,43848,,18047087,Marburger Tapetenfabrik
 ,275016,,,2145,,,18047097,Charles Dana Gibson
-,19432901,,,,,,18047111,Hannah Davis
+,,,,,,,18047111,Hannah Davis
 /m/06qq7g,2153245,,,,,,18047161,Albert Warner
 ,213216,,,922,3851,18300447,18047163,Alexander Calder
 ,67257,,,,,,18047195,Chester Gould
@@ -599,7 +599,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/060_7,24176,15873,,4609,50139,,18047293,Pablo Picasso
 /m/015qp7,163444,64163914,,,1838,,18047313,Kate Greenaway
 /m/04045fq,16721204,,,,,,18047333,Stanley Bate
-,2274068,,,6281,33744,,18047345,William Wegman
+,,,,6281,33744,,18047345,William Wegman
 /m/0962h6,3328449,,,,,,18047369,Cecil Aldin
 ,81795,,,8200,,,18047417,David Byrne
 /m/09c7b,37535,,,,45022,,18047467,Metropolitan Museum of Art
@@ -607,47 +607,47 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,21611105,,,,,,18048069,HERTING
 /m/04p9w9,1275160,,,,987,,18048101,Wiener Werkstätte
 ,1444356,,,,,,18048151,"Herman Miller, Inc."
-,5390848,,,,,,18048173,FASSLER
+,,,,,,,18048173,FASSLER
 ,1089837,,,5634,3107,,18048503,Theophile Alexandre Steinlen
 ,10036067,,,,,18297039,18048547,Paul T. Frankl
 ,5674904,,,6965,,,18048563,Vladimir Stenberg
 /m/03bnb,12730,,,,51880,,18048579,General Electric Company
 ,351248,,,1444,,,18048585,Niki de Saint-Phalle
-,18034667,,,,,,18048595,Kvadrat
+,,,,,,,18048595,Kvadrat
 ,28017210,,,,,,18048601,Kay Bojesen
 ,869819,,,,,,18048701,Minton's
-,277902,,,,,,18048703,Benson
-,4341825,,,,,,18048715,Delta
+,,,,,,,18048703,Benson
+,,,,,,,18048715,Delta
 ,7223413,,,,,,18048729,Private collection
-,22665874,,,,,,18048743,Jack Wright
-,25725482,,,,,,18048745,George Payne
-,508091,,,,,,18048775,Modern Arts
-,3565701,,,,,,18048961,"Street & Smith Publications, Inc."
-,3249817,,,,,,18049029,Paul Dean
+,,,,,,,18048743,Jack Wright
+,,,,,,,18048745,George Payne
+,,,,,,,18048775,Modern Arts
+,,,,,,,18048961,"Street & Smith Publications, Inc."
+,,,,,,,18049029,Paul Dean
 ,3432164,,,,,,18049031,Paul Dillon
-,1440847,,,,,,18049049,Haussmann
+,,,,,,,18049049,Haussmann
 ,18117146,,,,,,18049067,American Print Works
 ,2294024,,,,,,18049115,Studio X
 ,914229,,,,,,18049121,Rolodex
 ,5873751,,,,,,18049129,Elsterwerda
 ,5450316,,,,38300,,18049133,Schramberg
-,16330713,,,,,,18049139,Goebel
-,479522,,,,,,18049149,"Apple Computer, Inc."
+,,,,,,,18049139,Goebel
+,,,,,,,18049149,"Apple Computer, Inc."
 /m/032jjq,681834,,,,,,18049155,Abraham Bosse
 /m/01bnyy,194846,,,,,,18049165,Telekom
 ,225297,,,,,,18049175,Gallé
-,3100138,,,,11207,,18049179,Daum
+,,,,,11207,,18049179,Daum
 /m/04xqtq,1374962,,,,34241,,18049191,Van Cleef and Arpels
 /m/05f3mf5,21425312,,,,,,18049199,Merry-Joseph Blondel
 /m/02qgvcp,10528970,,,,,,18049203,Rebeca Méndez
 /m/0hznj7q,34266838,,,,,,18049219,Jean Adrien Mercier
 /m/0fx_wm,6231500,71510347,94029554,,,,18049223,Michael Bierut
-,4823633,,,,,,18049227,Keith Brown
-,15662313,,,,,,18049319,Art Smith
+,,,,,,,18049227,Keith Brown
+,,,,,,,18049319,Art Smith
 /m/03c0vw2,13293492,,,,,,18049327,Charles-Antoine Coypel
 /m/0409d5w,16881561,,,,,,18049353,Alexandre Evariste Fragonard
-,13269447,,,,,,18049357,Boquet
-,18977482,,,,,,18049359,Riton
+,,,,,,,18049357,Boquet
+,,,,,,,18049359,Riton
 ,18482809,,,,,,18049449,Joseph Dufour et Cie.
 /m/050dh,19958,95775085,,696,,,18049451,Mario Botta
 /m/01vhz5,320965,,,,,,18049475,Pennsylvania Railroad
@@ -655,20 +655,20 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,61154,,,,,,18049499,Etienne-Louis Boullée
 /m/05b0q_,1555286,,,,,,18049501,Heinz Edelmann
 /m/017jv5,174319,,,,54460,,18049503,United Artists
-,12370092,,,3788,,,18049517,Charles Martin
+,,,,3788,,,18049517,Charles Martin
 /m/01bs3z,195487,59097680,,,,,18049565,Charles Le Brun
 /m/03rcq3,934307,,,,,,18049569,Pierre Lescot
 /m/07fy41,2464429,,,,,,18049571,Jean Goujon
 /m/08q4w7,3082370,69852805,,,,,18049573,Marguerite Zorach
 ,14262284,,,,,,18049575,The Educational Alliance
 /m/06yvx8,2245401,,,,,,18049591,Jacques Ignace Hittorff
-,8453299,,,,,,18049621,Advisory Council
-,3678272,,,,,,18049721,Apple Films
+,,,,,,,18049621,Advisory Council
+,,,,,,,18049721,Apple Films
 ,1780815,,,,,,18049729,Radius
 /m/0z07,2386,,,,61084,,18049749,American Airlines
 /m/0z6n,2402,,,,11277,,18049765,Albrecht Dürer
 /m/0h7lbdv,33331129,,,,,,18049769,Sarah Campbell
-,19792430,,,,,,18049793,Gordon
+,,,,,,,18049793,Gordon
 ,174311,,,,,,18049809,Benjamin Thompson
 ,35622315,,,,,,18049811,Tommi Parzinger
 /m/09nkw2,3592515,,,,,,18049819,Tupperware Corporation
@@ -676,9 +676,9 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,13537804,,,,,,18049837,Georgenthal
 ,105036,,,,,,18049839,Karlsruhe
 /m/02ryh81,11929764,,,,,,18049849,Maija Isola
-,30535506,,,,48377,,18049853,Jamet
-,5602697,,,,,,18049861,Peter Chang
-,985750,,,,,,18049985,Harvey Smith
+,,,,,48377,,18049853,Jamet
+,,,,,,,18049861,Peter Chang
+,,,,,,,18049985,Harvey Smith
 /m/05zjt9,1820546,109121023,,,,,18050011,George Nakashima
 /m/03m87s_,15427695,,,,,,18050013,James Hazen Hyde
 /m/0524fmf,20610574,,,,,,18050015,Charles Meynier
@@ -693,11 +693,11 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0d_myr,5696518,76690014,,,,,18050101,A. Henry
 ,3168771,,,,,,18050103,Delmes
 ,24213555,,,5729,,,18050113,Carol Summers
-,14137487,,,,,,18050115,Judith Brown
-,11050193,,,,9600,,18050137,Alessi
+,,,,,,,18050115,Judith Brown
+,,,,,9600,,18050137,Alessi
 /m/06_x0x8,23845685,,,,,,18050147,John Oster Manufacturing Company
-,357550,,,,,,18050183,Hoover
-,1172455,,,,,,18050245,Bunzlau
+,,,,,,,18050183,Hoover
+,,,,,,,18050245,Bunzlau
 ,4216437,,,,,,18050247,Grünstadt
 /m/02f1wq,475896,,,,,18296159,18050337,Lucas van Leyden
 ,5117279,,,7936,,,18050379,Wendell Castle
@@ -713,7 +713,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,245107,,,,,,18050609,Mary Mitchell
 ,26653373,,,,,,18050617,Judith Clarke
 ,1593865,,,,,,18050619,Elizabeth Andrew
-,18552574,,,,,,18050651,Mary Brown
+,,,,,,,18050651,Mary Brown
 ,34604531,,,4749,1269,,18050663,Otto Prutscher
 /m/01qh39,290195,100323855,,,,,18050679,Elizabeth Warren
 ,12212694,,,,,,18050689,Mary Ann Wilson
@@ -733,7 +733,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/02f33m,476181,,,,,,18050913,Luisa Dias
 /m/04cv4k6,18209024,,,,,,18050969,Xavier Gonzalez
 /m/04n4yv7,19657535,,,,,,18050985,Bruce Metcalf
-,1337035,,,,42132,,18050987,Richards
+,,,,,42132,,18050987,Richards
 /m/02pmb33,9627326,,,747,,,18051011,Pieter Brattinga
 ,14624394,,,,,,18051029,Flos
 /m/04zxwnx,20260942,,,,,,18051045,Albert Ludovici
@@ -742,7 +742,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,18774052,,,,,,18051067,Lazin
 ,35462664,,,,,,18051069,Katalan
 /m/0fllxk,6032861,,,5225,,,18051113,Peter Schlumbohm
-,13075999,,,,,,18051123,Michael Schneider
+,,,,,,,18051123,Michael Schneider
 ,7164457,,,,,,18051153,Henry Varnum Poor
 /m/0g5439q,30089081,,,,,,18051207,Charles Abraham Chasselat
 /m/0vdk,1938,94625754,,,,,18051235,Andrew Carnegie
@@ -757,42 +757,42 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/04s3ty,1313221,,,,,,18051661,Giovanni Francesco Grimaldi
 ,385155,,,,,,18051665,Italian
 /m/0hfyj,65828,,,,,,18051731,Smithsonian Institution
-,272325,,,,,,18051785,William Pitt
+,,,,,,,18051785,William Pitt
 /m/02bw4_,457798,39589087,,,,,18051787,Norman Bel Geddes
 /m/013pfg,151357,32243757,,,,,18051793,Thomas Chippendale
 /m/049kqx,1138120,,,3115,,,18051815,Ernst Ludwig Kirchner
 /m/01dn3v,208687,4940255,,,,18299393,18051861,Jean Baptiste Camille Corot
 /m/09b3v,37398,,,,,,18051901,Walt Disney Company
-,624912,,,,45101,,18051907,Fitch
+,,,,,45101,,18051907,Fitch
 /m/02xvdp,624029,,,,,,18051919,Duncan Phyfe
 /m/04z4d4,1394623,283709,,,,18295953,18051935,William Merritt Chase
 /m/09gmwww,25106060,,,,,,18051951,Enea Vico
 ,266243,,,8692,,,18051969,IDEO
-,492105,,,,,,18052025,Unknown
-,492105,,,,,,18052029,Unknown
+,,,,,,,18052025,Unknown
+,,,,,,,18052029,Unknown
 /m/026_mfm,8329716,,,,,,18052033,Alexandre Jacovleff
-,492105,,,,,,18052035,Unknown
-,492105,,,,,,18052043,Unknown
-,492105,,,,,,18052047,Unknown
-,492105,,,,,,18052051,Unknown
+,,,,,,,18052035,Unknown
+,,,,,,,18052043,Unknown
+,,,,,,,18052047,Unknown
+,,,,,,,18052051,Unknown
 /m/01xf8t,335390,12347231,,97,12402,18295581,18052071,Josef Albers
 /m/03c3yt5,13396367,,,,,,18052091,Rudolf Staffel
-,33933928,,,,,,18052115,Bihl
-,1725868,,,,,,18052121,Zell
+,,,,,,,18052115,Bihl
+,,,,,,,18052121,Zell
 /m/0ch4zmb,27918701,,,,,,18052123,Nicolas Beatrizet
 /m/06q1qh,2144760,,,,,,18052229,Industrial Designers Society of America
 /m/080fslv,8038111,,,,,,18052239,Charles Pollock
-,17966735,,,,,,18052279,Vice Versa
-,12045479,,,,,,18052301,Olympus
+,,,,,,,18052279,Vice Versa
+,,,,,,,18052301,Olympus
 /m/01yq83,345893,,,311,,,18052333,Giacomo Balla
 /m/0fpjrn1,29588070,,,,,,18052347,Albert Gregory
 ,11746035,,,,,,18052357,David Andersen
 /m/0h3xcxh,32830793,,,,,,18052393,Antoine-Andre Ravrio
 ,1779792,,,,,,18052407,Edward Sorel
-,9933888,,,,,,18052495,Winterhalter
+,,,,,,,18052495,Winterhalter
 /m/0h1f3b_,32500620,,,,,,18052543,George Stavrinos
 ,4232335,,,,,,18052559,Pentagram Design
-,2194314,,,1410,,,18052585,Paul Davis
+,,,,1410,,,18052585,Paul Davis
 /m/051_3pw,20589817,,,,,,18052647,Vlastislav Hofman
 /m/05q9sz1,22238604,,,,,,18052659,Alexander Isley
 ,327612,,,,,,18052713,Radio Shack
@@ -804,7 +804,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/05r50h,1722742,14782093,,1498,,,18052867,Fortunato Depero
 /m/0641059,22784518,,,,,,18052885,U.S. Glass Company
 /m/0ks2s1,7315947,15040640,,,,,18052911,Stefan Sagmeister
-,11807230,,,,,,18052919,Barbara White
+,,,,,,,18052919,Barbara White
 /m/0c10vb,4414814,,,,,,18053031,Robert Ingersoll Aitken
 ,29630805,,,,1077,18308329,18053137,New England Glass company
 /m/0w0x,2009,71410602,,34,1020,,18053139,Alvar Aalto
@@ -820,27 +820,27 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,18391739,,,,,,18053515,Superbag
 ,21785596,,,,,,18053539,Robert Dozier
 /m/0900tb,3231779,,,,,,18053561,Robert Winthrop Chanler
-,27372477,,,1915,14282,,18053605,Alan Fletcher
+,,,,1915,14282,,18053605,Alan Fletcher
 ,15848964,,,,,,18053621,Bruno Moretti
 /m/071n66,2295131,,,35,,,18053629,Aino Aalto
-,1367869,,,,31634,,18053639,Artek
+,,,,,31634,,18053639,Artek
 /m/05f2x3p,21379301,,,,,,18053645,Jean-Michel Wilmotte
 ,149170,,,,60671,,18053647,Academy
-,5661738,,,,,,18053663,William Adams
+,,,,,,,18053663,William Adams
 ,30272905,,,,,,18053669,O-Luce
 ,21694,,,,,,18053677,"NeXT, Inc."
 /m/0bkq2x,4129791,,,,,,18053681,Thomas De La Rue
 ,16315837,,,,,,18053695,Mark Wheatley
 /m/0dfz66,5330606,95874994,,3224,,,18053709,Mark Kostabi
 ,6012951,,,,37926,,18053731,Brionvega
-,4219072,,,,,,18053755,Doug Wilson
+,,,,,,,18053755,Doug Wilson
 /m/06m8rp,2102471,,,,,,18053787,Pierre-Yves Pelletier
-,2335386,,,,,,18053793,Thomas Wood
+,,,,,,,18053793,Thomas Wood
 /m/0250f,7672,,,,,,18053795,Chuck Jones
 /m/09g8k83,25094112,,,,,,18053799,Ed Koren
 ,31737338,,,,383,,18053821,Coloroll
 /m/0cx9l0,4961959,,,,,,18053841,Hilton McConnico
-,84834,,,,,,18053857,Morgantown
+,,,,,,,18053857,Morgantown
 /m/0395wn,761315,,,,,,18053875,Roger Taillibert
 /m/0fp8r_,6083050,,,,,,18053877,David Tisdale
 ,20403808,,,,,,18053885,Philip Burton
@@ -849,19 +849,19 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,1311849,,,5086,37425,18295179,18053897,Edward Ruscha
 /m/02gvjt,491264,260193,,531,,,18053901,Harry Bertoia
 ,20903889,,,,,,18053911,Angelo Mangiarotti
-,9372514,,,,,,18053943,Michael Matthews
-,19136115,,,,,,18053953,Karen Brown
+,,,,,,,18053943,Michael Matthews
+,,,,,,,18053953,Karen Brown
 /m/02pkx3g,9584415,,,,,,18053967,Sam Aaron
 /m/02qkgzm,10622141,,,,,,18053971,Michaele Vollbracht
 ,169709,,,5824,,,18053975,Walter Dorwin Teague
 /m/07krw,30775,69106390,,,,18302661,18053977,Thomas Nast
 /m/0kt82x,7723281,,,3688,31596,,18053979,Vico Magistretti
 ,7586514,,,5866,42656,,18054021,Thonet Brothers
-,1771503,,,,,,18054059,Herman Mueller
+,,,,,,,18054059,Herman Mueller
 ,16310,,,,,,18054061,Jacopo Amiconi
 ,54481,,,,,,18054089,Apron
 /m/066r8s,1927435,,,2026,,,18054177,Shigeo Fukuda
-,2886554,,,,,,18054229,Bell Telephone Company
+,,,,,,,18054229,Bell Telephone Company
 ,6604370,,,6502,,,18054231,Tadanori Yokoo
 /m/02x3n1g,12759198,,,,,,18054253,Maria Longworth Nichols
 /m/05znh62,22465280,,,,,,18054261,August Wilhelm Holmstrom
@@ -870,20 +870,20 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,377433,,,,,,18054295,PAF
 ,1545938,,,,,,18054321,LeRoy Neiman
 ,22147618,,,,,,18054343,Tebong
-,26452841,,,,,,18054405,Sagmeister Inc.
+,,,,,,,18054405,Sagmeister Inc.
 ,4667421,,,,,,18054437,Joseph Michael Gandy
 ,74097,,,6336,,,18054461,James Abbott McNeill Whistler
 /m/03lr35,885620,,,,46454,18302119,18054477,Martin Schongauer
 ,4513984,,,,,,18054493,Otl Aicher
 ,24837288,,,,,,18054623,American Thermos Bottle Company
-,4301463,,,,,,18054677,Limbach
-,24547907,,,,,18298867,18054727,James Hadley
+,,,,,,,18054677,Limbach
+,,,,,,18298867,18054727,James Hadley
 ,20993953,,,,6695,,18054739,Haviland & Co.
 ,340405,,,,,,18054753,Herder
 ,7661102,,,,,,18054771,Holiçs
 /m/05n4hz,1683889,,,,,,18054799,Francesco Melzi
 ,31453124,,,,12101,,18054817,Elkington & Co.
-,16521556,,,,,,18054841,Thomas Hope
+,,,,,,,18054841,Thomas Hope
 ,6167755,,,,,,18054871,American Institute of Graphic Arts
 /m/09f2j,37765,,,,,,18054935,UCLA
 /m/026qk8b,8075461,,,,,,18054937,Yale University School of Art
@@ -897,19 +897,19 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/01rpc_,299202,,,,,18297691,18055063,Jean Baptiste Carpeaux
 /m/0523wk7,20559850,9398904,98343,,,,18055091,Neil Selkirk
 /m/08r5qp,3096843,,,,,,18055175,Kenny Scharf
-,492105,,,,,,18055227,Unknown
+,,,,,,,18055227,Unknown
 /m/03lk29,883541,,,,,,18055229,Sebastiano Conca
 /m/0272718,8403266,32133820,,,,,18055275,Maira Kalman
-,4406908,,,,,,18055303,Renard
+,,,,,,,18055303,Renard
 ,429739,,,,,,18055309,Isaac Mizrahi
 ,6118566,,,,,,18055319,fuseproject.
 ,27413027,,,,,,18055323,Brian Connelly
 /m/047dl7f,17868384,,,2949,,,18055329,Finn Juhl
 /m/046gt8,1106032,122244068,,,,,18055381,Mary Freeman
 ,5476226,,,,,,18055389,Rebecca Knight
-,32947760,,,,,,18055393,Ann Wood
+,,,,,,,18055393,Ann Wood
 /m/05m5zv,1671178,,,,,,18055395,Mary Johnston
-,29717354,,,,,,18055415,Mary Wood
+,,,,,,,18055415,Mary Wood
 /m/0284chk,9318147,,,,,,18055431,Claude Vignon
 ,18885017,,,,,,18055471,A+M Records
 /m/03c7r99,13511513,,,,,,18055495,William Cripps
@@ -919,7 +919,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,2332995,,,5392,647,,18055621,Cindy Sherman
 ,15442617,,,,,,18055657,Pierre Chareau
 /m/06b4f1,1973614,,,,,,18055663,Jeffrey Chodorow
-,932040,,,483,,,18055669,Thomas Hart Benton
+,,,,483,,,18055669,Thomas Hart Benton
 ,871569,,,,,,18055671,Hubert Robert
 ,20127,,,1757,,,18055709,Maurits Cornelis Escher
 ,3257952,,,,,,18055711,Gabriele Valvassori
@@ -931,13 +931,13 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,4050706,,,,,,18055839,Rosendahl
 /m/051w46k,20611006,,,,,,18055849,Jean Baptiste-Marie Pierre
 /m/01scvf,304903,39471157,,,,,18055857,Eliel Saarinen
-,20123501,,,,,,18055863,Storeys
+,,,,,,,18055863,Storeys
 /m/03n9g_,902093,,,,,,18055877,Belisario Corenzio
 /m/059k72,1548991,,,,,18303163,18055881,Corrado Giaquinto
-,2026865,,,,,,18055883,Rodriguez
+,,,,,,,18055883,Rodriguez
 /m/0gffbjp,30815925,,,,,,18055887,Francesco Coghetti
 /m/03qjljt,15971495,,,,,,18055915,Lois Greenfield
-,766025,,,,,,18055931,John Scott
+,,,,,,,18055931,John Scott
 /m/0ch1l1q,27901255,,,,,,18055939,Taxile Doat
 /m/04x6x7,1368482,,,1879,,,18056001,Howard Finster
 ,2079774,,,,,,18056003,Cushman & Wakefield
@@ -945,20 +945,20 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,44112,,,,,,18056035,John Dalton
 ,13468169,,,,,,18056037,Lynn Goldsmith
 /m/02wwdz7,12574031,,,,,,18056049,Paula White
-,1276634,,,,,,18056087,Maharam
+,,,,,,,18056087,Maharam
 /m/02wylxg,12624735,,,,,,18056119,Augustin Hirschvogel
-,774396,,,,,,18056151,Mary Harris
+,,,,,,,18056151,Mary Harris
 ,22529983,,,,,,18056153,Sarah Harris
 /m/039nyl,766029,,,5471,,,18056163,John French Sloan
 ,26631329,,,,,,18056171,Barry Lewis
-,3013838,,,,,,18056173,George Thompson
+,,,,,,,18056173,George Thompson
 /m/047mll,1118521,,,,,,18056177,Brian Dewan
 ,2012705,,,,,,18056209,Tim Horn
 ,3291499,,,5933,,,18056251,Rosemarie Trockel
 ,36494033,,,3923,,,18056259,Leopoldo Mendez
 /m/09tts3,3675374,,,,,,18056281,Ilmari Tapiovaara
 /m/036xzw,735781,,,,,,18056285,Emile-Jacques Ruhlmann
-,5788510,,,,65985,,18056291,Christo Javacheff
+,,,,,65985,,18056291,Christo Javacheff
 ,1919667,,,559,,,18056293,Max Bill
 /m/0276591,8514603,,,,,,18056319,James McGuigan
 /m/03n0hg,899292,,,,,,18056343,Antoine Denis Chaudet
@@ -985,12 +985,12 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,2402234,,,,,,18056969,Phil Mitchell
 /m/02p_10k,10020911,,,,,,18056975,Carol Anthony
 /m/02x4d64,12775249,,,,,,18056989,David Strong
-,4148774,,,,,,18056997,Larsen
-,34405541,,,,,,18056999,Arthur Ignatius Keller
+,,,,,,,18056997,Larsen
+,,,,,,,18056999,Arthur Ignatius Keller
 /m/027cllk,8651269,,,,,,18057005,Carlos Huerta
 ,502656,,,,,,18057023,David Stone
-,1154785,,,,,,18057025,Albano
-,23741770,,,,,,18057027,Mike Hicks
+,,,,,,,18057025,Albano
+,,,,,,,18057027,Mike Hicks
 /m/0c2qzf,4444101,,,,,,18057037,Pier Francesco Mola
 ,8232282,,,,,,18057039,Ortega
 ,854669,,,,,,18057049,Antoine Louis Barye
@@ -1003,21 +1003,21 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/03gx3_d,14762722,,,,,,18057107,Pierre-Adrien Paris
 /m/04m5yz,1250909,,,,,,18057117,Peter Kuhlman
 ,9889497,,,,,,18057119,Mark Peterson
-,20536382,,,,,,18057127,Thomas Strong
+,,,,,,,18057127,Thomas Strong
 ,6897591,,,,,,18057129,W. Baker
 ,28326012,,,,,,18057137,Planier
 ,32382203,,,,,,18057145,Luigi Rossini
 /m/0byk96,4350538,,,,,,18057147,André-Jacob Roubo
-,492105,,,,,,18057157,Unknown
-,492105,,,,,,18057161,Unknown
-,492105,,,,,,18057171,Unknown
+,,,,,,,18057157,Unknown
+,,,,,,,18057161,Unknown
+,,,,,,,18057171,Unknown
 /m/0fv4lh,6173130,,,3572,,,18057187,Harvey Littleton
 /m/0bg5cm,4062778,,,,,,18057249,Preston Scott Cohen
 /m/0g55chd,30086214,,,,,,18057295,George Schmidt
 ,846558,,,,,,18057297,IDG
 /m/044jl0,1083210,,,,13415,,18057317,Lord & Taylor
 ,203793,,,,,,18057343,"Ministry of Defense, United Kingdom"
-,404463,,,,,,18057361,William Spooner
+,,,,,,,18057361,William Spooner
 /m/03cw9g,797666,,,,,,18057393,Filippo Juvarra
 ,27756090,,,,,,18057421,Jane Thompson
 /m/0239mx,396043,,,,,18294807,18057483,Henri Cros
@@ -1033,25 +1033,25 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,31839648,,,,,,18057741,Colossal Pictures
 /m/05h1_63,21569680,,,,,,18057765,Joaquim Tenreiro
 /m/03dvjd,816238,,,,,,18057783,Bernard Palissy
-,4987566,,,,,,18057795,Oliver Smith
+,,,,,,,18057795,Oliver Smith
 /m/0282j_j,9272767,,,,,,18057803,Freddy Wittop
 ,13297549,,,,,,18057821,Paul Becker
 /m/0gg709b,30889853,,,,15883,,18057873,Adriaen Collaert
-,38015,,,,,,18057889,Epic
+,,,,,,,18057889,Epic
 ,4855400,,,,,,18057937,Craig Wood
 /m/02fr7_,481729,67278466,,,,,18057941,E. Fay Jones
 ,26615530,,,,,,18057943,Landers Frary & Clark
 /m/032h4l,681518,,,,,,18057953,Giovanni Paolo Panini
-,6576869,,,,,,18057955,Kristian Vedel
+,,,,,,,18057955,Kristian Vedel
 /m/0cw3g1,4938750,,,515,,,18057961,Lucian Bernhard
 /m/02r5tbs,11271126,,,,,,18057983,Marten de Vos
 /m/04rd8_,1304174,56883752,,,,,18058085,Edwin Howland Blashfield
 /m/03cx8wq,14189397,,,,,,18058131,Harry Fenn
-,10114327,,,,,,18058139,Annin
+,,,,,,,18058139,Annin
 ,6477872,,,,,,18058257,Bross
-,331133,,,333,,,18058269,George Barker
+,,,,333,,,18058269,George Barker
 /m/047ncmk,18084581,,,,,,18058275,Eduardo Zamacois y Zabala
-,12185391,,,,,,18058285,John Andrew
+,,,,,,,18058285,John Andrew
 /m/07k8hz6,23998938,,,,,,18058297,Mary Nimmo Moran
 /m/03cdgcd,13663546,,,,,,18058299,Theodore R. Davis
 ,776079,,,,,,18058321,Jacqueline U.
@@ -1060,7 +1060,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0gg79rv,31035477,,,,,,18058337,Paul Haigh
 /m/09rxc_m,25540081,,,,,,18058345,Jean-Baptiste Lallemand
 /m/0h3wfyf,32740907,,,2700,,,18058415,Ludwig Hohlwein
-,13435659,,,,,,18058535,Burroughs
+,,,,,,,18058535,Burroughs
 /m/07mjbd,2551029,,,,,,18058615,Jean Baptiste Le Prince
 /m/02cw6w,465931,,,,,,18058701,Jonathan Ive
 ,31594435,,,,,,18058829,Humanscale
@@ -1071,22 +1071,22 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,12483747,,,,,,18058961,Margaret Helfand
 ,409346,,,,,,18059029,The Atlantics
 ,30181328,,,,,,18059073,Richard H. Mandel House
-,7721638,,,7938,,18306897,18059075,Tom Dixon
+,,,,7938,,18306897,18059075,Tom Dixon
 /m/05rdq_,1725757,,,7999,,18307375,18059077,Marc Newson
-,18480845,,,,,,18059079,Thomas Radcliffe
-,7792554,,,,,,18059093,"""P. Ya"""
-,144489,,,,32911,18298309,18059095,George Smith
+,,,,,,,18059079,Thomas Radcliffe
+,,,,,,,18059093,"""P. Ya"""
+,,,,,32911,18298309,18059095,George Smith
 ,36475917,,,,,,18059127,William Harrison I
 /m/0f1c9,53604,,,3595,,,18059131,Adolf Loos
 /m/02qsr35,10874420,12336802,,3843,,,18059149,Herbert Matter
-,1533382,,,,,,18059187,2x4
+,,,,,,,18059187,2x4
 /m/0809t46,24822685,,,,,,18059199,Bill Anton
 ,3740594,,,,,,18059201,Crane &  Company
-,9376773,,,,,,18059357,Dennis Diderot
+,,,,,,,18059357,Dennis Diderot
 ,69761,,,399,,,18059359,Herbert Bayer
 /m/02q5y2x,10229040,,,,,,18059467,George Loring Brown
 /m/025_bqy,7362799,,,,,,18059481,Marco Grassi
-,2321438,,,,,,18059625,Bright Star
+,,,,,,,18059625,Bright Star
 ,95171,,,7241,,,18059631,Panasonic
 ,572737,,,,34884,,18059659,"Mag Instrument, Inc."
 /m/0h3tqv6,32727329,,,,,,18059703,François Vivares
@@ -1094,16 +1094,16 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/04rf2s,1304471,,,,73755,,18059897,Jacques-François Blondel
 ,25143253,,,3854,,18307863,18059961,Ingo Maurer
 /m/02fvkd,482575,,,,,,18059963,Pietro da Cortona
-,1339652,,,,,,18060071,Chadwick
+,,,,,,,18060071,Chadwick
 /m/02ryhfk,11929859,,,,,,18060073,Nick Butler
-,6832464,,,,,,18060075,Pierre Germain
-,323650,,,,,,18060105,PD
+,,,,,,,18060075,Pierre Germain
+,,,,,,,18060105,PD
 ,36258085,,,,,,18060113,Antoine Aveline
-,1514470,,,,,,18060117,Gerlach
+,,,,,,,18060117,Gerlach
 /m/0b75lgg,26189919,,,,,,18060121,Jacques Dumont
-,424488,,,,44570,,18060133,Thomas Johnson
+,,,,,44570,,18060133,Thomas Johnson
 ,16358198,,,,,,18060151,Matthias Darly
-,492105,,,,,,18060157,Unknown
+,,,,,,,18060157,Unknown
 ,3026523,,,,,,18060159,Pieter Coecke van Aelst
 /m/042qjk,1062753,44338254,93033314,,,,18060169,Bachelier
 /m/0g133d,6325929,,,,,,18060171,François Cuvilliés
@@ -1112,20 +1112,20 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,214028,,,,,18300735,18060209,Antonio Canale
 /m/03cmpp,794886,17495441,,1116,,,18060211,Howard Chandler Christy
 ,36258337,,,,49401,,18060217,Pierre-Alexandre Aveline
-,1461628,,,,,,18060219,Bonneval
+,,,,,,,18060219,Bonneval
 /m/07xh71,2679858,,,,,,18060257,Thomas Heming
 ,6916168,,,,,,18060273,Nichia
 /m/06zm_xl,23690207,,,,,,18060283,Maarten Vrolijk
 /m/02gx21,491662,,,,,,18060335,Henry Van de Velde
-,937791,,,,,,18060345,Barbara Brown
+,,,,,,,18060345,Barbara Brown
 ,9906294,,,,4078,,18060351,Johann Sebastian Bach
-,1018656,,,,,,18060355,Dubois
+,,,,,,,18060355,Dubois
 /m/0g5rswb,30455296,,,,73149,,18060427,Jacques Chereau
 /m/05n_kgm,22130580,,,,,,18060429,Jacques-Gabriel Huquier
 ,34695165,,,,45504,,18060443,Charles Wild
-,3401545,,,,4690,,18060447,William Henry Hunt
-,6488257,,,,,,18060467,English School
-,681419,,,,,,18060471,James Roberts
+,,,,,4690,,18060447,William Henry Hunt
+,,,,,,,18060467,English School
+,,,,,,,18060471,James Roberts
 ,1714377,,,,,,18060483,L. Rossi
 ,1030,,,,,,18060487,Austrian School
 /m/0h51nqv,33035325,,,,,,18060489,George Pyne
@@ -1137,15 +1137,15 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/02pldt4,9599848,,,,,,18060539,Matthäus Günther
 /m/03c3svm,13391189,,,,,,18060549,Marian Bantjes
 /m/026jy7k,7916042,,,,,,18060565,Frederick S. Church
-,11758645,,,,,,18060719,Abraham Gallatin
+,,,,,,,18060719,Abraham Gallatin
 /m/0h0qh2,7021089,,,,,,18060735,"Rolls Razor, Ltd."
-,6578686,,,,15104,,18060861,John Hamilton
+,,,,,15104,,18060861,John Hamilton
 /m/05zmpx7,22691338,,,,3726,,18060863,Henry Spicer
-,21712069,,,,,,18060881,John Pennington
+,,,,,,,18060881,John Pennington
 /m/06zr9s4,23774395,,,,,18306823,18060899,Tord Boontje
-,277327,,,,,,18060947,Bill Graham
+,,,,,,,18060947,Bill Graham
 /m/0307q6,656994,,,,1844,18298903,18060985,Suzuki Harunobu
-,310154,,,,,,18060989,Utagawa Toyokuni
+,,,,,,,18060989,Utagawa Toyokuni
 ,44888,,,,,,18061035,Schubert
 /m/06q07,26989,,,,7944,,18061051,Sony Corporation
 /m/047gblb,17736407,,,,,,18061097,Wilhelm Koch
@@ -1160,7 +1160,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0ch57ph,27896932,,,,,,18061235,Pierre-Francois Basan
 /m/0crhj7k,28489375,,,2968,,,18061267,Jacob Kainen
 /m/0hgps_j,33529249,,,,,,18061277,Sheila Bridges
-,1345118,,,,,,18061293,Anstey
+,,,,,,,18061293,Anstey
 /m/02x3qks,12761633,,,,,,18061309,M. Louise McLaughlin
 ,2724271,,,,,,18061315,EDRA
 /m/0dkf44,5406324,,,,,,18061393,Sarah Dunsworth
@@ -1171,14 +1171,14 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/02r03rq,11102940,,,,,,18061559,Jessica Helfand
 /m/0gqktv,6818006,,,,,,18061565,Pierre Louis Moreau Desproux
 /m/01qx3t,293476,,,,,,18061569,Stora Enso
-,457368,,,,58477,,18061575,Warner
+,,,,,58477,,18061575,Warner
 /m/0g5pymw,30349148,,,,,,18061581,Tokujin Yoshioka
 /m/027htkr,8760883,,,,,,18061607,Edison Electric Institute
-,1312765,,,,,,18061613,Michael Angelo
+,,,,,,,18061613,Michael Angelo
 /m/0279p_c,8605437,,,,,,18061621,Dominique Collin
-,4741764,,,,,,18061647,Elios
+,,,,,,,18061647,Elios
 /m/037cm1,740716,,,,44568,,18061653,Richard Cosway
-,6389085,,,,3665,,18061657,John Miers
+,,,,,3665,,18061657,John Miers
 ,21249091,,,,,,18061663,Lexon
 /m/0gtwcsf,4447098,,,,,,18061681,Théodore de Bry
 ,56293,,,,,,18061687,Clive Sinclair
@@ -1186,14 +1186,14 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/08rm9c,3103351,,,,,,18061693,Parfums Caron
 /m/0274yhv,8478734,,,,,,18061757,Francesco Piranesi
 ,13145126,,,,,,18061773,Ugen
-,2515237,,,,,,18061813,William Frend De Morgan
+,,,,,,,18061813,William Frend De Morgan
 /m/0h1h0xf,32563064,,,,,18307637,18061981,Halsey Ricardo
 /m/03hgkm,854318,,,,,,18062025,Gerard Edelinck
 ,30043168,,,,,,18062027,Arrivet
 /m/0dcggz,5282846,,,,,,18062069,Rebecca Knox
 ,30613064,,,,,,18062071,Sarah Phillips
 /m/0cn_8qq,28246115,,,,,,18062075,Margaret Dennis
-,16249666,,,,,,18062077,Sarah Beckett
+,,,,,,,18062077,Sarah Beckett
 /m/0gx2n1x,32085218,,,,,,18062081,Jane Fraser
 /m/04lf16z,19297781,,,,,,18062099,Claude Guy Hallé
 /m/09s0_x,3647044,,,2423,,,18062129,Renato Guttuso
@@ -1201,8 +1201,8 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/08mfv0,3038971,44307245,,1935,,,18062135,Jean-Louis Forain
 ,4732652,,,6545,,18302335,18062137,Zao Wou-ki
 /m/03c9x6p,13577556,,,,,,18062201,Tom Kundig
-,442610,,,,,,18062245,Arco
-,41555,,,,,,18062249,Pilot
+,,,,,,,18062245,Arco
+,,,,,,,18062249,Pilot
 ,8851020,,,,,,18062279,David Rockwell
 /m/03grc43,33746269,,,,,,18062281,Materialise NV
 /m/02rk2rm,11581481,,,,,,18062325,Jennifer Robertson
@@ -1211,22 +1211,22 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,24853349,,,,,,18062367,Nendo
 /m/0hr6y1t,34052767,,,,,,18062369,James Montalbano
 /m/09fc4k,3472974,,,,,,18062399,Eton Corporation
-,518483,,,,,,18062487,Trove
+,,,,,,,18062487,Trove
 /m/05fpg1,1600591,,,,,,18062553,Bill Moggridge
 ,2032943,,,,,,18062585,Susan Lewis
 /m/06cq3x,1995914,,,1314,,,18062597,Wim Crouwel
 /m/0179y,3712,,,,,,18062607,Bell Telephone Laboratories
 ,2307762,,,,,,18062611,Harry Powell
 ,1049279,,,,9194,,18062625,Martin Sharp
-,34330608,,,,,,18062681,Greenwich School
+,,,,,,,18062681,Greenwich School
 ,202147,,,,,,18062711,Fanny Hill
-,524354,,,,,,18062741,Katy
+,,,,,,,18062741,Katy
 /m/0l057,81669,54156251,,,,,18062761,Claude Lorrain
 /m/05h1sv6,21484873,,,,,,18062773,William Brooke Thomas Trego
-,11748686,,,,,,18062783,Edward Pond
+,,,,,,,18062783,Edward Pond
 /m/06zn0m5,23777798,,,5753,,,18062789,Waldemar Swierzy
 /m/0b68gb,3908184,96056622,,5189,,,18062793,Jan Sawka
-,476888,,,,,,18062797,Guerilla Girls
+,,,,,,,18062797,Guerilla Girls
 /m/03cg9k8,13724649,,,6539,,,18062817,Wojciech Zamecznik
 /m/0hgq5f2,33557891,,,3970,,,18062847,Tomoko Miho
 /m/06ldv1,2089161,,,3480,,,18062853,Jan Lenica
@@ -1236,13 +1236,13 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,181651,,,540,12452,,18062863,Joseph Beuys
 /m/02rt28n,11803921,,,,,,18062869,Kishin Shinoyama
 ,369661,,,,34921,18306905,18062871,James Dyson
-,13461640,,,,,,18062873,Dyson Ltd.
+,,,,,,,18062873,Dyson Ltd.
 /m/0crj46,4862821,73895789,,,,,18062905,Philip Galle
 ,14391978,,,,,,18062911,Rodarte
 ,197295,,,2018,,,18062937,Roger Eliot Fry
 ,221889,,,,,,18062959,"Louis Rene Edouard, Cardinal de Rohan"
 ,2831913,,,,,,18062991,Herter Brothers
-,2602334,,,,,,18063011,Helmut Lang
+,,,,,,,18063011,Helmut Lang
 ,21367432,,,,,,18063071,Kunstgewerbeschule
 /m/0ct0_n,4895781,,,,,,18063085,Collins & Aikman
 /m/06c99g,1989637,,,,,,18063127,Pierre Boitard
@@ -1252,17 +1252,17 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,14391978,,,,,,18063241,Laura Mulleavy
 /m/0jt50kt,35774639,,,,,,18063283,Wilhelm Kage
 /m/02x2_dw,12744828,,,,,,18063309,Seth Wells Cheney
-,1012922,,,,,,18063311,John Bennett
+,,,,,,,18063311,John Bennett
 /m/01kqx9,247008,,,,,,18063313,Paul Manship
 /m/080mq_3,24739808,,,,,18307841,18063363,Erwan Bouroullec
 /m/080mq_3,24739808,,,,,,18063365,Ronan Bouroullec
 /m/09yllr,3743118,,,,,,18063401,Bartolomeo Pinelli
-,4373044,,,,,,18063453,Sir James Thornhill
+,,,,,,,18063453,Sir James Thornhill
 /m/05c2d21,21152341,,,,,,18063467,Zdenek  Ziegler
-,33415909,,,,,,18063481,Pedro Almodóvar Caballero
+,,,,,,,18063481,Pedro Almodóvar Caballero
 ,1093884,,,,,,18063485,Fritz Fischer
 /m/0b1kdl,3818361,,,,,,18063493,Wieslaw Walkuski
-,29837809,,,,,,18063495,Anne Allen
+,,,,,,,18063495,Anne Allen
 /m/07k6s35,24134069,,,4468,,,18063497,Andrzej Pagowski
 /m/03cg0nq,13715313,,,,,,18063503,Stanislaw Zamecznik
 ,35756587,,,,,,18063553,Jacques Delisle
@@ -1290,7 +1290,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,7664801,,,,,,18064273,3M
 ,883619,,,,,,18064301,Willem van de Velde the Elder
 /m/0413n3c,16966246,,,,,,18064331,Charles Rohault de Fleury
-,25169908,,,,,,18064335,Frantz
+,,,,,,,18064335,Frantz
 /m/0h1c39f,32581609,,,,12027,,18064411,Kevin Coates
 /m/0m3vt,88272,105372100,,,,,18064413,Edward Gorey
 /m/02x9t7x,12885790,,,,,,18064415,Samuel Wilkinson
@@ -1307,10 +1307,10 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/03sssv,951465,,,,,,18064719,Giacomo Cavedone
 /m/04yd1_p,20199882,,,,,,18064735,Anton Sminck Pitloo
 /m/03cx6k0,14186738,,,,,,18064737,Vespasiano Strada
-,1928013,,,,,,18064831,Linda Thompson
+,,,,,,,18064831,Linda Thompson
 ,10673,,,,,,18064839,Myrical
 ,342921,,,,,,18064869,Positano
-,939515,,,,,,18064965,Sirrah
+,,,,,,,18064965,Sirrah
 /m/0141bc,153629,,,,,,18064979,Grindal
 /m/0g_nq,63150,34459370,,6624,,18295329,18065033,Fernand Leger
 /m/05r7xj,1723810,,,,,,18065059,Robert Peak
@@ -1328,20 +1328,20 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0420yl0,17116215,,,,,,18065355,Anna Maria Garthwaite
 ,11360535,,,,,,18535487,Jeff Barnes
 /m/03b7j3,772190,,,248,4189,,18535489,Richard Avedon
-,30603293,,,,,,18535505,Blechman
+,,,,,,,18535505,Blechman
 /m/01pyt1,285438,,,1633,6075,,18535555,Jean Dubuffet
-,23562071,,,,,,18535585,Hans Hansen
+,,,,,,,18535585,Hans Hansen
 ,2165431,,,,,,18535587,Peter Cornelius
 /m/04lgj6f,19300740,,,,41607,,18535621,Peter Good
 /m/01zplk,354408,,,2252,,,18535625,Arshile Gorky
 ,44743,,,,,18306075,18535631,Thomas Hardy
 /m/01jkt6,238341,99899880,,2678,,,18535633,David Hockney
-,1481458,,,,,,18535639,Hixo
+,,,,,,,18535639,Hixo
 /m/0gcjf,60148,49252397,,2923,,,18535645,Jasper Johns
 ,2698517,,,3016,,,18535651,Alex Katz
 ,27418615,,,,,,18535685,William McCaffery
 /m/01vntm,322247,,,,3222,,18535691,Issey Miyake
-,26924711,,,,,,18535701,Modell
+,,,,,,,18535701,Modell
 ,364964,,,,,,18535703,Mulhouse
 /m/06qds8,2149236,,,,,,18535741,Ernest Flagg
 /m/08cnqq,2920109,,,,,,18535743,Tinker Hatfield
@@ -1349,31 +1349,31 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/0f1j3,53625,95771937,,8101,,,18535769,Paolo Soleri
 ,34743603,,,5950,,,18535781,George Tscherny
 /m/0cnyr23,28301049,,,6524,,,18535795,Jack Youngerman
-,36444879,,,,,,18535821,Tyler Smith
+,,,,,,,18535821,Tyler Smith
 /m/03z19,23430752,,,,,,18535837,Internal Revenue Service
 /m/026h1w,421246,,,,54133,,18535843,J.C. Penny
 ,347301,,,,,,18535845,Levi Strauss
-,23577591,,,,,,18535855,Oliphant
+,,,,,,,18535855,Oliphant
 /m/03by15,782039,,,6260,,,18535861,Carleton E. Watkins
 /m/015dvh,161535,,,,,,18535891,National Park Service
 /m/01g4m_,220018,3263619,,,,,18535919,Thomas Sheraton
 ,13069319,,,,,,18535925,Jean-Michel Frank
-,1042192,,,,73746,,18535945,John Jackson
-,12892149,,,,75810,,18535959,James Lewis
+,,,,,73746,,18535945,John Jackson
+,,,,,75810,,18535959,James Lewis
 /m/02r6rcb,11296337,,,,,,18536125,Francesco Allegrini
 /m/03csd24,14062493,,,,,,18536129,Antonio Baldi
 /m/03cz9vp,14254814,,,,,,18536149,Paolo Caronni
 /m/0hr5wkd,34076323,,,,,,18536163,Benoit Farjat
-,34520182,,,,,,18536227,SAS [Scandinavian Airlines System]
+,,,,,,,18536227,SAS [Scandinavian Airlines System]
 ,16954294,,,,,,18536235,T. Johnson
 /m/065_rvq,23231325,,,,,,18536251,Marco Glaviano
 /m/017l96,174650,,,,38586,,18536261,Capitol Records
-,6832757,,,,,,18536265,Chelsea Porcelain Manufactory
+,,,,,,,18536265,Chelsea Porcelain Manufactory
 /m/06w97mn,23445969,,,,,,18536277,Bela Borsodi
 /m/01hlzm,231026,,,,,,18536279,Citibank
 /m/024ztf,410200,,,3123,,,18536297,Poul Kjaerholm
 ,5572776,,,,,,18536307,Mary Richards
-,13281625,,,,,,18536311,Anna Williams
+,,,,,,,18536311,Anna Williams
 ,27539343,,,,,,18536333,Mrs. Watson
 /m/09p4y4,3600867,,,,,,18536349,Ackworth School
 /m/09dgqj,3457421,46808185,,,,,18536373,Serge Ivan Chermayeff
@@ -1384,17 +1384,17 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,288153,,,,,,18536453,Abigail Freeman
 ,4386474,,,,,18303901,18536507,Christofle
 ,364576,,,,,,18536563,Marmon Motor Car Company
-,7189031,,,,34590,,18536565,Boucher
+,,,,,34590,,18536565,Boucher
 /m/01rzkj,301708,,,4324,,,18536617,Isamu Noguchi
 /m/03n20b,899786,,,,,,18536621,Zenith Radio Corporation
 /m/09gjd2,3493570,,,4967,,,18536623,Terence Harold Robsjohn-Gibbings
 ,27997634,,,,38164,18299451,18536723,Newcomb Pottery
-,29568348,,,,40670,,18536809,Richard Watson
+,,,,,40670,,18536809,Richard Watson
 /m/08_6ld,3219622,,,,,,18536811,Jason Short
 /m/026v5,7952,,,,,,18536817,Digital Equipment Corporation
 ,484143,,,6210,,,18536857,Otto Wagner
 /m/09jv4p,3531525,77118926,,,,,18536903,Joseph Urban
-,4853525,,,,,,18536907,William Moore
+,,,,,,,18536907,William Moore
 /m/0635bb,1878698,,,2702,,,18536969,Steven Holl
 ,1329896,,,,,,18537089,Kronach
 ,4783110,,,,,,18537187,Belleek
@@ -1403,37 +1403,37 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,16295,,,6278,,18297569,18537211,Josiah Wedgwood
 /m/0bs2hq3,26993239,,,,,,18537277,Guy Boucher
 ,33258107,,,,35442,,18537299,Thomas Mayer
-,16492570,,,,,,18537301,Thomas Godwin
+,,,,,,,18537301,Thomas Godwin
 /m/02rxmp3,11910434,,,,,,18537307,Enoch Wood
 ,165654,,,,,,18537309,Thomas Wolfe
 /m/02rd4sq,11451395,,,,,,18537327,Artur Braun
 /m/04hj22,1209986,,,,,,18537329,Fritz Eichler
 /m/04213tt,17105055,,,,,,18537331,Max Braun
-,36335476,,,,,,18537389,Edith Brown
+,,,,,,,18537389,Edith Brown
 ,32170070,,,,,,18537399,Agostino Brunias
-,2678120,,,,,,18537437,CGM
+,,,,,,,18537437,CGM
 ,34968715,,,4268,,,18537453,Walter von Nessen
-,945992,,,,,,18537459,Alexander Anderson
+,,,,,,,18537459,Alexander Anderson
 ,9132,,,,68183,,18537465,Dale Chihuly
 ,12749495,,,,,,18537481,Clen
 ,31397653,,,,,,18537483,Manade
 ,910432,,,5197,,,18537489,Carlo Scarpa
-,381605,,,4257,31615,18308193,18537495,George Nelson
+,,,,4257,31615,18308193,18537495,George Nelson
 /m/09lxzz,3565526,,,,,,18537497,Howard Miller Clock Company
 ,504001,,,,,,18537501,Clignancourt
 /m/036dhk,730353,,,,,,18537509,Luigi Colani
 /m/0gp0s8,6789330,54252791,2002000308,,,,18537517,Peter Coles
 ,6912859,,,,,,18537525,James O'Halloran
 ,1754021,,,,,,18537527,Terence Conran
-,3307645,,,,,,18537533,Schick
+,,,,,,,18537533,Schick
 /m/05myhlw,21696032,,,,,,18537537,Enrico Coveri
 ,34380254,,,,,,18537571,Dazey Corporation
 ,149681,,,,52147,,18537577,Beck
-,146801,,,,4071,,18537601,Corneille
+,,,,,4071,,18537601,Corneille
 /m/0gvv1x7,31883967,,,,,,18537667,Walter Maria Kersting
 /m/076t9s1,23890563,,,,,,18537695,Jordan Doner
 /m/030hz6,659591,,,,,,18537697,Ronaldus Shamask
-,2591196,,,,,,18537715,Aubusson
+,,,,,,,18537715,Aubusson
 ,206481,,,,,,18537727,Elam
 /m/0b6gw8t,25947563,,,,,18307985,18537745,William Eley
 /m/04rhlw,1305464,,,,,,18537773,Etienne-Maurice Falconet
@@ -1441,25 +1441,25 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/01gh24,222599,17260670,,,72310,,18537805,John Flaxman
 ,946362,,,,,,18537833,Samsonite
 /m/03gy3jd,14793258,,,,,,18537841,Franz Cizek
-,8946437,,,,42898,,18537899,John Hewitt
+,,,,,42898,,18537899,John Hewitt
 /m/02v_jff,12330197,,,6559,,,18537909,Carlo Zen
-,8899992,,,,,,18537949,Fred Brown
+,,,,,,,18537949,Fred Brown
 /m/0854b,33807,24663766,,2359,34571,,18537963,Walter Gropius
 ,17031923,,,,,,18537975,Ruth Asawa
 /m/052175v,20693172,,,,,,18538027,Raoul Pène DuBois
 /m/02r2jsw,11173585,,,,,,18538099,William Drenttel
 ,208445,,,,,,18538145,David Adler
 ,36373886,,,,,,18538189,Warren Platner
-,24461802,,,,,,18538205,Robert Valentine
+,,,,,,,18538205,Robert Valentine
 ,5417392,,,,,,18538211,Anthony Russo
 ,335382,,,,,,18538243,Bell South
-,449039,,,,,,18538269,Yamato
+,,,,,,,18538269,Yamato
 /m/073p76,2321821,,,,,,18538351,Andrea Sacchi
 /m/049_9l,1142540,,,36,,,18538405,Eero Aarnio
 /m/0bvlpb,4294295,,,8062,,,18538415,Hans Coray
 /m/07p6t_,2577264,39646235,,4394,6445,,18538421,Joseph Maria Olbrich
 /m/065kvh,1911257,,,,,,18538435,Henckels
-,988163,,,,,,18538465,Expansion
+,,,,,,,18538465,Expansion
 /m/02vy8nr,12267479,,,,9241,,18538493,Robert Cruikshank
 /m/09v9x8w,25688979,,,,,,18538495,Richard Dighton
 ,1224435,,,,,,18538503,John Brodie
@@ -1470,12 +1470,12 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 /m/03f6j85,4480582,,,,,,18538561,Paul Speck
 /m/0b5x4x,30859473,,,,,,18538573,Sir Jeffry Wyatville
 /m/0h654c,7137356,,,,,,18538579,Domenico Antonio Vaccaro
-,5409750,,,,,,18538625,Antonio Lopez
+,,,,,,,18538625,Antonio Lopez
 ,12984243,,,,,,18538635,Page Wood
 /m/0gg8pd1,30832561,,,,,,18538643,Laurie Rosenwald
 /m/0269_qf,7724383,,,,33448,,18538665,Henry Alken
 /m/0h68s8j,33134628,,,,,,18538693,Sid Daniels
-,578658,,,,,,18538719,Robin Roberts
+,,,,,,,18538719,Robin Roberts
 /m/087q0f,2864948,,,,11512,,18538803,André-Charles Boulle
 ,5924216,,,,,,18538805,Kahla
 ,3004044,,,,,,18538811,Fraureuth
@@ -1486,7 +1486,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,4522644,,,,13416,,18539069,Lucien Lelong
 /m/0h973m2,33455863,,,,,,18539113,Heidelberg Painter
 /m/072427,2301208,,,,,,18539153,Louis Carrogis
-,3001954,,,,,,18539211,Weissenberg
+,,,,,,,18539211,Weissenberg
 /m/0276vb2,8531196,,,,,,18539221,Vincenzo Brenna
 ,17839,,,,648,,18539239,London Underground
 /m/027jchd,8777224,,,,,,18539241,Hideko Takahashi
@@ -1494,7 +1494,7 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,18450562,,,,,,18539253,Kyte
 ,17480034,,,,,,18539285,Adelaide Alsop Robineau
 ,5596805,,,,37338,,18539287,Artus Van Briggle
-,25640441,,,,,,18539309,Felix the Cat Productions
+,,,,,,,18539309,Felix the Cat Productions
 /m/05f7_z7,21452570,,,,,,18539311,Bruno Monguzzi
 /m/0dyb08,5651864,,,,,,18539343,Dan Reisinger
 ,11615214,,,,,,18539377,Gustave Baumann
@@ -1505,4 +1505,4 @@ freebase:id,wikipedia:id,viaf:id,lcnaf:id,moma:id,vanda:id,ima:id,ch:id,ch:name
 ,4268907,,,,,,18539477,Moss Rose
 /m/04xr86,1375125,,,,,,18539487,Heinrich Vogeler
 ,299978,,,,,,18539553,John Davison Rockefeller Jr.
-,18127615,,,,,,18539563,Chris Taylor
+,,,,,,,18539563,Chris Taylor
